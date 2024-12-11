@@ -93,7 +93,7 @@ Egy egyszerű webapplikáció egy autószerviz által tárolt szervizadatok megj
 ---
 ## Adatkötés BindingSource -on keresztül
 
-- **1x2p** Működő BindingSource*(2p)*
+- **1x2p** Működő BindingSource *(2p)*
 
 
 **Részösszeg:** 11p  
